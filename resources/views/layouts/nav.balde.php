@@ -4,6 +4,6 @@
 	<title>@yield('title')</title>
 </head>
 <body>
-@yield('content')
+@yield('content')ss
 </body>
 </html>
